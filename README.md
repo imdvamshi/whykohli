@@ -1,2 +1,2 @@
 # whykohli
-this sites describes why about kohli ?
+This is my first website deploy using html only
